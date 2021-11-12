@@ -3,9 +3,7 @@
   
   De volgende lettertypen zijn onderdeel van de officiele rijkshuisstijl van de Nederlandse overheid, in gebruik bij officiele gelegenheden en officiele uitgaven. 
   
-  Gebruik anders dan is vastgelegd in het besluiit ["Regeling voorbehouden auteursrecht beeldmerk en huisstijl herkenbare Rijksoverheid"](https://wetten.overheid.nl/BWBR0024004/2008-08-07) is ongewenst.
-  
-  Wij vragen een ieder die deze fonts download ze enkel te gebruiken zoals bepaald in het [Auteursrecht Rijkshuisstijl](https://www.rijkshuisstijl.nl/copyright/auteursrecht-rijkshuisstijl).
+  Gebruik anders dan is vastgelegd in het besluiit ["Regeling voorbehouden auteursrecht beeldmerk en huisstijl herkenbare Rijksoverheid"](https://wetten.overheid.nl/BWBR0024004/2008-08-07) is ongewenst.  Wij vragen een ieder die deze fonts download ze enkel te gebruiken zoals bepaald in het [Auteursrecht Rijkshuisstijl](https://www.rijkshuisstijl.nl/copyright/auteursrecht-rijkshuisstijl).
   
   Behoudens de rechten der Nederlandse overheid, is de beschikbaarheid van deze bestanden volgens het 'fair use' principe, 
   het zgn. ["Open Data](https://www.rijksoverheid.nl/opendata)-model van rijksoverheid.nl/opendata.
