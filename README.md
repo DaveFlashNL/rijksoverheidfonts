@@ -1,7 +1,7 @@
 # Rijkshuisstijl lettertypen 
   (official dutch government fonts)
   
-  De volgende lettertypen zijn onderdeel van de officiele rijkshuisstijl van de Nederlandse overheid, gebruik bij officiele gelegenheden en officiele uitgaven. 
+  De volgende lettertypen zijn onderdeel van de officiele rijkshuisstijl van de Nederlandse overheid, in gebruik bij officiele gelegenheden en officiele uitgaven. 
   
   Gebruik anders dan is vastgelegd in het besluiit ["Regeling voorbehouden auteursrecht beeldmerk en huisstijl herkenbare Rijksoverheid"](https://wetten.overheid.nl/BWBR0024004/2008-08-07) is ongewenst.
   
